@@ -1,3 +1,3 @@
 ## About Project Management App
 
-A project built using Laravel and React.
+A project being built using Laravel and React.
